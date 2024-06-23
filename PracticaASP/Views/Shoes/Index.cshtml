@@ -1,0 +1,44 @@
+﻿@model List<Shoes>
+
+
+<h1>Zapatillas</h1>
+
+<p>
+    <a asp-action="Create">Crear</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Marca
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var Shoes in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m => Shoes.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => Shoes.Brand.Name)
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-rout-id="@Shoes.ShoesId">Eliminar</a>
+                </td>
+                <td>
+                    <input value="@Shoes.ShoesId" name="id" id="id" type="hidden" />
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+

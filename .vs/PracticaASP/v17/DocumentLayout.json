@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\intil\\Documents\\PracticaASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|c:\\users\\intil\\documents\\practicaasp\\practicaasp\\views\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|solutionrelative:practicaasp\\views\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|c:\\users\\intil\\documents\\practicaasp\\practicaasp\\views\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|solutionrelative:practicaasp\\views\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|c:\\users\\intil\\documents\\practicaasp\\practicaasp\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|solutionrelative:practicaasp\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|c:\\users\\intil\\documents\\practicaasp\\practicaasp\\views\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|solutionrelative:practicaasp\\views\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|c:\\users\\intil\\documents\\practicaasp\\practicaasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|solutionrelative:practicaasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|c:\\users\\intil\\documents\\practicaasp\\practicaasp\\models\\viewmodels\\shoesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF9DAE8-3032-4ED7-8765-2A174C030632}|PracticaASP\\PracticaASP.csproj|solutionrelative:practicaasp\\models\\viewmodels\\shoesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaASP\\Program.cs",
+              "ToolTip": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Program.cs",
+              "RelativeToolTip": "PracticaASP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:56:11.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Views\\Shoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PracticaASP\\Views\\Shoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Views\\Shoes\\Delete.cshtml",
+              "RelativeToolTip": "PracticaASP\\Views\\Shoes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T23:10:45.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Views\\Shoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticaASP\\Views\\Shoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Views\\Shoes\\Create.cshtml",
+              "RelativeToolTip": "PracticaASP\\Views\\Shoes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T22:55:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoesController.cs",
+              "DocumentMoniker": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Controllers\\ShoesController.cs",
+              "RelativeDocumentMoniker": "PracticaASP\\Controllers\\ShoesController.cs",
+              "ToolTip": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Controllers\\ShoesController.cs",
+              "RelativeToolTip": "PracticaASP\\Controllers\\ShoesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwFsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:49:12.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Views\\Shoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticaASP\\Views\\Shoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Views\\Shoes\\Index.cshtml",
+              "RelativeToolTip": "PracticaASP\\Views\\Shoes\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T22:49:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Models\\ViewModels\\ShoesViewModel.cs",
+              "RelativeDocumentMoniker": "PracticaASP\\Models\\ViewModels\\ShoesViewModel.cs",
+              "ToolTip": "C:\\Users\\intil\\Documents\\PracticaASP\\PracticaASP\\Models\\ViewModels\\ShoesViewModel.cs",
+              "RelativeToolTip": "PracticaASP\\Models\\ViewModels\\ShoesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:01:08.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
