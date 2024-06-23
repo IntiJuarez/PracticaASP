@@ -66,7 +66,7 @@ namespace PracticaASP.Controllers
             var shoes = await _context.Shoes
                  //.Include(s => s.Brand)
                  .FirstOrDefaultAsync(m => m.ShoesId == id);
-            if(shoes == null)
+            if (shoes == null)
             {
                 return NotFound();
             }
@@ -74,8 +74,8 @@ namespace PracticaASP.Controllers
             return View(shoes);
         }
 
-        
-        [HttpPost, ActionName("Delete")]
+
+        [HttpPost, ActionName("DeleteConfirmed")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -85,7 +85,6 @@ namespace PracticaASP.Controllers
             {
                 return NotFound();
             }
-
             _context.Shoes.Remove(shoes);
             //Guardamos cambios en DB
             await _context.SaveChangesAsync();

@@ -63,3 +63,4 @@ C:\Users\intil\Documents\PracticaASP\PracticaASP\obj\Debug\net6.0\refint\Practic
 C:\Users\intil\Documents\PracticaASP\PracticaASP\obj\Debug\net6.0\PracticaASP.pdb
 C:\Users\intil\Documents\PracticaASP\PracticaASP\obj\Debug\net6.0\PracticaASP.genruntimeconfig.cache
 C:\Users\intil\Documents\PracticaASP\PracticaASP\obj\Debug\net6.0\ref\PracticaASP.dll
+C:\Users\intil\Documents\PracticaASP\PracticaASP\obj\Debug\net6.0\PracticaASP.sourcelink.json

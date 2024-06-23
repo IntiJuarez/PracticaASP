@@ -31,7 +31,7 @@
                     @Html.DisplayFor(m => Shoes.Brand.Name)
                 </td>
                 <td>
-                    <a asp-action="Delete" asp-rout-id="@Shoes.ShoesId">Eliminar</a>
+                    <a asp-action="Delete" onclick="return confirm('Estas seguro?')" asp-route-id="@Shoes.ShoesId">Eliminar</a>
                 </td>
                 <td>
                     <input value="@Shoes.ShoesId" name="id" id="id" type="hidden" />
